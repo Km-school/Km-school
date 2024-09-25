@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi my nickname is KM, I'm studying with Alura
 
 <!--
 **Km-school/Km-school** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
